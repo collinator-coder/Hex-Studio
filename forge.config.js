@@ -10,7 +10,7 @@ module.exports = {
         // Config here
       }
     }
-  ]
+  ],
   packagerConfig: {
     asar: true,
   },
